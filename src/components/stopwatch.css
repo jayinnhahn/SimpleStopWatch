@@ -1,0 +1,24 @@
+.App {
+	text-align: center;
+	display: flex;
+	justify-content: center;
+}
+
+.Application {
+	width: 20rem;
+	height: 25rem;
+	margin: auto;
+	width: 50%;
+	margin-top: 5rem;
+}
+
+.StopWatch {
+	background-color: #4371c5;
+	text-align: center;
+}
+
+.ItemContainer {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
